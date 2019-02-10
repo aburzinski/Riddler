@@ -9,6 +9,6 @@ The three decks form a sort of Rock, Paper, Scissors triange, with each winning 
 
 No matter which deck you choose first, Monty will have a 70 percent chance to win against you.
 
-# Completed Using
+## Completed Using
 - Python
 - Monte Carlo Simulation
